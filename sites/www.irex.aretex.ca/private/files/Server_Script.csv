@@ -1,0 +1,78 @@
+"ID","Script Type","Script","Reference Document Type","Event Frequency","DocType Event","API Method","Allow Guest","Disabled"
+"Creation du compte LDAP","DocType Event","
+ldap = frappe.get_doc(""LDAP Settings"")
+url = ldap.ldap_server_url.replace(""ldap://ldap."", """").split("":"")[0]
+
+ldap_user = {}
+ldap_user['username'] = doc.first_name[0] + doc.last_name 
+ldap_user['firstname'] = doc.first_name
+ldap_user['lastname'] = doc.last_name
+ldap_user['email'] = ldap_user['username'] + ""@"" + url
+ldap_user['password'] = doc.password or ldap_user['username']
+
+
+exist = frappe.db.exists(""LDAP Account"", doc.email)
+
+if not exist:
+    ldap.create_ldap_user(ldap_user)
+    frappe.sendmail(
+        recipients=doc.email,
+        subject='Email de bienvenue',
+        template='credentials_email',
+        args=dict(
+            name=doc.first_name +' '+ doc.last_name,
+            sexe = ""Male"",
+            username=doc.first_name[0] + doc.last_name,
+            password=doc.first_name[0] + doc.last_name
+        ),
+            header='BIENVENUE DANS LA COMMUNAUTÉ IREX'
+    )
+    
+    frappe.msgprint(""mail envoyé avec succès."")
+else:
+    frappe.throw(""Le compte existe déjà"")
+    ","LDAP Account","All","Before Insert","",0,0
+"test","DocType Event","
+modalities = frappe.db.get_all('Course Modality', fields=['name','program','price','number', 'time','debouches','rythme'], filters={'name': 'Ingénierie des processus métier'})
+
+frappe.throw(modalities[0].program)
+
+","Course Modality","All","Before Save","",0,1
+"Admission candidat","DocType Event","user = frappe.get_doc(""User"", doc.user)
+cohort = frappe.get_doc(""Cohort"", doc.cohort)
+
+
+frappe.sendmail(
+    recipients=doc.user,
+    subject='Email de bienvenue',
+    template='welcome_email',
+    args=dict(
+        name=user.first_name,
+        program=doc.program,
+        cohorte=cohort.name,
+        date_debut=cohort.start_date
+    ),
+    header='BIENVENUE DANS LA COMMUNAUTÉ IREX'
+)
+
+frappe.msgprint(""mail envoyé avec succès."")","Candidats","All","After Submit","",0,0
+"Envoi du mail de bienvenue","DocType Event","#frappe.throw(doc.student_name)","Program Enrollment","All","After Submit","",0,0
+"Création d'un canditat","DocType Event","student = frappe.get_doc(""Student"", doc.student)
+program = frappe.get_doc(""Program"", doc.program)
+
+
+candidat = frappe.get_doc({
+    'doctype':'Candidats',
+    'user': student.student_email_id,
+    'email': student.student_email_id,
+    'program': program.program_name,
+    'cohort': doc.cohort
+})
+
+
+exist = frappe.db.exists(""Candidats"", frappe.session.user)
+
+if not exist:
+    candidat.insert()
+    frappe.msgprint(f""{candidat.user} a été ajouté avec success."")
+","Program Enrollment","All","After Save","",0,0

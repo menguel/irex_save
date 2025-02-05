@@ -1,0 +1,45 @@
+"Program Name","Department","Program Abbreviation","Is Published","Allow Self Enroll","Is Featured","Intro Video","Hero Image","Description","ID (Courses)","Course (Courses)","Course Name (Courses)","Mandatory (Courses)"
+"Initiation à l'informatique et au travail à distance","Informatique - IX","IT",1,1,0,"","/files/computer-1185569_640.jpg","Ce programme s’adresse à tous, quelque soit votre niveau y compris les débutants. Nous vous initierons aux bases du travail dans une équipe-projet et au sein d'un environnement totalement digital. Le télé-travail, les méthodologies de travail en entreprise, et les exigences du monde professionnel n'auront plus de secret pour vous. ","9a73220b64","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
+"Ventes, Communication et Marketing digital","Informatique - IX","ventes-communication-marketing",1,1,0,"","/files/email-4284157_1280.png","<b>Coming soon</b>","","","",""
+"CAO / FAO","Informatique - IX","cao-fao",1,1,1,"","/files/computer-1373684_1920.jpg","Conception Assistée par Ordinateur / Fabrication Assistée par Ordinateur
+
+<b>Coming soon</b>","","","",""
+"Cybersécurité","Informatique - IX","Sécurité",1,1,0,"","/files/cyber-security-1805632_1280.png","","4328bb65fc","Module 1: Cryptographie","Module 1: Cryptographie",1
+"","","","","","","","","","a857571069","Module 2: IAM (  Identity and Access Management )","Module 2: IAM (  Identity and Access Management )",1
+"","","","","","","","","","ff5b0f8969","Module 3: PKI (Private Key Infrastructure)","Module 3: PKI (Public Key Infrastructure)",1
+"BG-DATA","BIG DATA - IX","BD",0,0,0,"","","","","","",""
+"analyste d'affaire","Quality Management - IX","",0,0,0,"","","","6c731c1ae9","BA1: Assurance Qualité en logiciel","BA1: Assurance Qualité en logiciel",1
+"","","","","","","","","","94d21e8196","BA2: Implantation de logiciel","BA2: Implantation de logiciel",1
+"","","","","","","","","","2c70b703f5","BA3: Ingénierie des processus métier","BA3: Ingénierie des processus métier",1
+"","","","","","","","","","1ce2cc21b3","BA4: Analyse d'affaire en logiciels","BA4: Analyse d'affaire en logiciels",1
+"UX Design","Informatique - IX","",1,1,0,"","/files/uxdesi.jpg","","0350fd66db","Module 1: Graphic Design","Module 1: Graphic Design",1
+"","","","","","","","","","f056b3bc37","Module 2: UX/UI Design","Module 2: UX/UI Design",1
+"","","","","","","","","","5b09e8ba51","Module 3: Video editing","Module 3: Video editing",1
+"","","","","","","","","","53e74c111d","Module 4 : 3D Animation","Module 4 : 3D Animation",1
+"Big Data","Informatique - IX","",1,1,0,"","/files/webpc-passthru.webp","Ce cours s'adresse aux personnes ayant une première expérience en programmation et souhaitant s'orienter vers les métiers autour de la valorisation des données de masse.","d14d5a0012","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
+"","","","","","","","","","cb4a08eab9","BD1: Large scale data processing","BD1: Large scale data processing",1
+"","","","","","","","","","169b5866a9","BD2: Large scale data storage","BD2: Large scale data storage",1
+"","","","","","","","","","c723317a1c","BD3: Large scale data job scheduling","BD3: Large scale data job scheduling",1
+"","","","","","","","","","1ea60f8efb","BD4: Large scale data streaming","BD4: Large scale data streaming",1
+"","","","","","","","","","594499f2b1","BD5: Large scale data science","BD5: Large scale data science",1
+"IOT : Internet des Objets","Informatique - IX","",1,1,0,"","/files/internet-of-things-IoT.jpeg","","7ea0ddb684","Initiation à l'informatique professionnelle","Initiation a l'informatique professionnelle ",1
+"","","","","","","","","","e4f74c23cc","IOT1 : Linux From Scratch","IOT1 : Linux From Scratch",1
+"","","","","","","","","","f64419f0d5","IOT2 : Déploiement des services sur des machines virtuelles","IOT2 : Déploiement des services sur des machines virtuelles",1
+"","","","","","","","","","6f9ad375c7","IOT3 : Déploiement sur docker","IOT3 : Déploiement sur docker",1
+"","","","","","","","","","5334bda7ef","IOT4 : Infrastructure Iot","IOT4 : Infrastructure Iot",1
+"","","","","","","","","","7d3cde80b2","IOT5 : Développement Iot","IOT5 : Développement Iot",1
+"Analyse d'affaire","Informatique - IX","",1,1,0,"","/files/business-analysis-process.png","Dans ce programme qui s'adresse tout particulièrement aux diplomés des filières autres que les technologies de l'information, nous apprennons les métiers liés à l'analyse d'affaire. Des métiers qui s'exercent au sein même d'équipe projets informatique","33042c85f7","Initiation à l'informatique professionnelle","Initiation a l'informatique professionnelle ",1
+"","","","","","","","","","2a051e8a15","BA1: Assurance Qualité en logiciel","BA1: Assurance Qualité en logiciel",1
+"","","","","","","","","","a25c229e45","BA2: Implantation de logiciel","BA2: Implantation de logiciel",1
+"","","","","","","","","","b6b6d6404d","BA3: Ingénierie des processus métier","BA3: Ingénierie des processus métier",1
+"","","","","","","","","","10eb57331b","BA4: Analyse d'affaire en logiciels","BA4: Analyse d'affaire en logiciels",1
+"DevOps","Informatique - IX","",1,1,0,"","/files/devops-3155972_1920.jpg","A la découverte du monde du DevOps pour une carrière réussie.","bd755f6d4a","Initiation à l'informatique professionnelle","Initiation a l'informatique professionnelle ",1
+"","","","","","","","","","7e2ab5ced7","DevOps1: Linux From Scratch","DevOps1: Linux From Scratch",1
+"","","","","","","","","","59e1434cd7","DevOps2 : Déploiement des services sur des machines virtuelles","DevOps2 : Déploiement des services sur des machines virtuelles",1
+"","","","","","","","","","74e0ecc70e","DevOps3 : Déploiement sur docker","DevOps3 : Déploiement sur docker",1
+"","","","","","","","","","e705dfc49e","DevOps4 : Déploiement sur Kubernetes","DevOps4 : Déploiement sur Kubernetes",1
+"Développement Web et Mobile","Informatique - IX","dev-web-and-mobile",1,1,0,"","/files/web.jpg","Découvrez les technologies a la pointe dans le domaine du Web et faites carrière dans ce domaine en forte demande","11b4c6b10b","Initiation à l'informatique professionnelle","Initiation a l'informatique professionnelle ",0
+"","","","","","","","","","0a81f602a7","DW1: Développement front end","DW1: Front end development",0
+"","","","","","","","","","e913ad528c","DW2: Intégration avec des API","DW2: API Integration",0
+"","","","","","","","","","5bdd840bc8","DW3: Développement backend 1","DW3: Backend development Part 1",0
+"","","","","","","","","","faa6232c4d","DW4: Développement backend 2","DW4: Backend development Part 2",0

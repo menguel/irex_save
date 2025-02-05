@@ -1,0 +1,138 @@
+2022-05-05 14:32:07,118 ERROR frappe New Exception collected with id: 2022-05-05 14:32:07.113894-192.168.33.102-172
+Site: www.irex.aretex.ca
+Form Dict: {'key': '5z0bNukBJqTU99roJR4PamfYLHMFkfhf', 'old_password': '', 'new_password': '', 'logout_all_sessions': '1', 'cmd': 'frappe.core.doctype.user.user.update_password'}
+2022-05-06 06:25:16,173 ERROR frappe New Exception collected with id: 2022-05-06 06:25:16.166557-192.168.33.102-32a
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-07 00:39:41,208 ERROR frappe New Exception collected with id: 2022-05-07 00:39:41.202409-192.168.33.102-82f
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-08 20:23:01,871 ERROR frappe New Exception collected with id: 2022-05-08 20:23:01.863828-192.168.33.102-055
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-10 08:47:43,067 ERROR frappe New Exception collected with id: 2022-05-10 08:47:43.060420-192.168.33.102-5ac
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-11 11:03:04,021 ERROR frappe New Exception collected with id: 2022-05-11 11:03:04.014849-192.168.33.102-2f4
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-13 10:48:19,639 ERROR frappe New Exception collected with id: 2022-05-13 10:48:19.633289-192.168.33.102-b1b
+Site: www.irex.aretex.ca
+Form Dict: {'key': '5z0bNukBJqTU99roJR4PamfYLHMFkfhf', 'old_password': '', 'new_password': '', 'logout_all_sessions': '1', 'cmd': 'frappe.core.doctype.user.user.update_password'}
+2022-05-18 17:15:39,960 ERROR frappe New Exception collected with id: 2022-05-18 17:15:39.953532-192.168.33.102-49f
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-20 08:17:14,371 ERROR frappe New Exception collected with id: 2022-05-20 08:17:14.362499-192.168.33.102-471
+Site: www.irex.aretex.ca
+Form Dict: {'\x00\x00\x08�\x00\x00\x00B"name":"irex-newsletter-last","owner":"tnougosso@irex.aretex.ca","creation":"2022-05-17 17:36:59.868416","modified":"2022-05-20 06:44:33.903805","modified_by":"tnougosso@irex.aretex.ca","idx":0,"docstatus":0,"send_from":"Teuma.Nougosso <tnougosso@irex.aretex.ca>","schedule_sending":0,"schedule_send":"2022-05-17 17:00:00","email_sent":1,"subject":"IREX Newsletter last","content_type":"HTML","message":"<div class=\\"ql-editor read-mode\\"><p><br></p></div>","message_html":"<div bgcolor=\\"white\\" class=\\"main\\" style=\\"background: #ffffff; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; padding: 20px;\\">\\n  <nav class=\\"navbar-newsletter\\" style=\\"background: #fff4e5;\\">\\n    <div class=\\"container-fluid\\" style=\\"display: flex;\\">\\n      <img alt=\\"IREX-brand\\" src=\\"https://www.irex.aretex.ca/files/Group-26.png\\" style=\\"height: 100px; object-fit: contain; margin: 0 auto;\\">\\n    </div>\\n  </nav>\\n  \\n  <span style=\\"float: right; margin: 10px;\\">Newsletter, 20-05-2022</span>\\n  \\n  <section class=\\"content\\" style=\\"width: 100%; padding: 40px 0;\\">\\n    <div class=\\"container\\">\\n      <h1 class=\\"content-title\\" style=\\"margin-top: 40px;\\">\\n        Bienvenue sur la newsletter de l\'IREX\\n      </h1>\\n      <div style=\\"margin-top: 50px;\\">\\n        <h3>Qui sommes nous ?</h3>\\n        <p style=\\"font-size: 1.3rem; text-align: justify;\\">\\n         <span style=\\"color: #ff8f00;\\">IREX</span> est une communauté de pratique digitale qui s\'adresse aux <span style=\\"color: #ff8f00;\\"><i>étudiants</i></span>, aux <span style=\\"color: #ff8f00;\\"><i>chercheurs d’emploi</i></span>, aux <span style=\\"color: #ff8f00;\\"><i>personnes qui souhaitent se reconvertir en technologies de l\'information</i></span> ou <span style=\\"color: #ff8f00;\\"><i>franchir des paliers professionnels</i></span> dans ce domaine.<br><br>\\n         Son objectif premier est d’amener ses membres vers la réussite professionnelle à travers ses programmes:\\n        </p>\\n      </div><br>\\n      \\n      \\n      <table border=\\"0\\" cellpadding=\\"0\\" cellspacing=\\"5\\" style=\\"margin-left: auto; margin-right: auto;\\">\\n        <tbody><tr>\\n          <td><img alt=\\"DevOps-program-image\\" src=\\"https://www.irex.aretex.ca/files/devops-3155972_1920.jpg\\" style=\\"width: 300px; height: 200px;\\">\\t\\t\\t\\t\\t </td>\\n          <td>\\n        \\t<img alt=\\"Digital-marketing-program-image\\" src=\\"https://www.irex.aretex.ca/files/digital-marketing-5816304_1920.jpg\\" style=\\"width: 300px; height: 200px;\\">\\n        </td>\\n        </tr>\\n        \\n        <tr>\\n          <td style=\\"text-align: center;\\"><a href=\\"/lms/program?program=DevOps\\" style=\\"text-decoration: none ; color: black; margin-top: 10px;\\" target=\\"_blank\\">\\n            DevOps\\n          </a></td>\\n          \\n          <td style=\\"text-align: center;\\"><a href=\\"/lms/program?program=Marketing%20digital\\" style=\\"text-decoration: none ; color: black; margin-top: 10px;\\" target=\\"_blank\\">\\n            Marketing digital\\n          </a></td>\\n        </tr>\\n    \\t</tbody></table>\\n      \\n      <table border=\\"0\\" cellpadding=\\"0\\" cellspacing=\\"5\\" style=\\"margin-left: auto; margin-right: auto;\\">\\n        <tbody><tr>\\n          <td>\\n            <img alt=\\"Dev-web-program-image\\" src=\\"https://www.irex.aretex.ca/files/web.jpg\\" style=\\"width: 300px; height: 200px;\\">\\n          </td>\\n          <td>\\n        \\t<img alt=\\"Digital-marketing-program-image\\" src=\\"https://www.irex.aretex.ca/files/business-analysis-process.png\\" style=\\"width: 300px; height: 200px;\\">\\n        </td>\\n        </tr>\\n        \\n        <tr>\\n          <td style=\\"text-align: center;\\">\\n            <a href=\\"/lms/program?program=Développement%20Web%20et%20Mobile\\" style=\\"text-decoration: none ; color: black; margin-top: 10px;\\" target=\\"_blank\\">\\n            Developpement web\\n          </a>\\n          </td>\\n          \\n          <td style=\\"text-align: center;\\"><a href=\\"/lms/program?program=Analyse%20d%27affaire\\" style=\\"text-decoration: none ; color: black; margin-top: 10px;\\" target=\\"_blank\\">\\n            Analyse d\'affaire\\n          </a></td>\\n        </tr>\\n    \\t</tbody></table>\\n      <br>\\n      \\n      \\n      \\n        <a class=\\"btn\\" href=\\"/lms\\" style=\\"color: white; background: #3700e7; margin: 0 auto; width: 120px; display: block; text-align: center;\\" target=\\"_blank\\">\\n          Voir plus\\n        </a>\\n      <div style=\\"margin-top: 30px;\\">\\n        <h3>Pourquoi je reçois cette Newsletter ?</h3>\\n        <p style=\\"font-size: 1.3rem; text-align: justify;\\">\\n            Vous avez récemment montré votre intérêt à nos activités en créant votre compte sur au moins une de nos plateforme (<a href=\\"https://www.irex.aretex.ca\\" style=\\"color: #3700e7;\\" target=\\"_blank\\">IREX</a>, <a href=\\"https://www.jione.ca\\" style=\\"color: #3700e7;\\" target=\\"_blank\\">JIONE</a>, ... ). Nous avons pensé que vous trouveriez interressant de rester informé des actualités à venir dans la communauté.\\n        </p>\\n      </div>\\n      \\n      <div style=\\"\\">\\n        <h3>Qu\'est-ce que je vais recevoir dans les prochaines newsletters ?</h3>\\n        <p style=\\"font-size: 1.3rem; text-align: justify;\\">\\n        Cette newsletter vous tiendra informé de tout ce qui se passe dans la galaxie IREX.<br>\\n        Vous aurez ainsi des informations sur <span style=\\"color: #ff8f00;\\"><i>nos programmes</i></span>, <span style=\\"color: #ff8f00;\\"><i>les promotions</i></span>, <span style=\\"color: #ff8f00;\\"><i>les événements</i></span>, <span style=\\"color: #ff8f00;\\"><i>les réalisations de nos membres</i></span>, <span style=\\"color: #ff8f00;\\"><i>les mises à jour de programmes</i></span>, et surtout sur <span style=\\"color: #ff8f00;\\"><i>les articles écrits par nos membres</i></span> pour vous édifier sur le domaine des technologies de l\'information. <br>\\n        Le contenu pourra évoluer pour mieux vous informer.\\n        </p>\\n      </div>\\n      \\n      \\n      <div style=\\"margin-top: 30px;\\">\\n        <h3>À quelle fréquence je vais recevoir cette newsletter ?</h3>\\n        <p style=\\"font-size: 1.3rem; text-align: justify;\\">\\n            La newsletter sera <span style=\\"color: #ff8f00;\\"><i>mensuelle</i></span> pour un début. Vous serez informé(e) en avance pour tout changement sur la périodicité.\\n        </p>\\n      </div>\\n        <p style=\\"font-size: 1.3rem; text-align: justify; margin-top: 50px;\\">\\n          Si vous avez besoin de plus d’informations vous pouvez consulter notre <a href=\\"/my-faq\\" style=\\"text-decoration: none ; color: #ff8f00;\\" target=\\"_blank\\">FAQ</a> ou alors nous contacter via les informations juste en bas de la page. Merci.\\n        </p>\\n        <br>\\n        <p style=\\"font-size: 1.2rem; text-align: justify;\\">\\n          Liens utiles : \\n          <a href=\\"/lms\\" style=\\"margin-left: 20px; color: #3700e7;\\" target=\\"_blank\\">Programmes d\'apprentissage</a>\\n          <a href=\\"/blog\\" style=\\"margin-left: 20px; color: #3700e7;\\" target=\\"_blank\\">Blog</a>\\n          <a href=\\"/my-faq\\" style=\\"margin-left: 20px; color: #3700e7;\\" target=\\"_blank\\">FAQ</a>\\n          <a href=\\"/\\" style=\\"margin-left: 20px; color: #3700e7;\\" target=\\"_blank\\">IREX</a>\\n        </p>\\n    </div>\\n  </section>\\n  \\n  <footer style=\\"background: #fff4e5;\\">\\n  <table border=\\"0\\" cellpadding=\\"5\\" cellspacing=\\"5\\" style=\\"margin-left: auto; margin-right: auto;\\">\\n        <tbody><tr>\\n          <td colspan=\\"3\\" style=\\"text-align: center;\\">\\n            <img alt=\\"IREX-brand\\" src=\\"https://www.irex.aretex.ca/files/IREX-Brand.png\\" style=\\"height: 50px; object-fit: contain; margin: 10px;\\">\\n          </td>\\n        </tr>\\n        \\n        <tr>\\n          <td colspan=\\"3\\" style=\\"text-align: center;\\">\\n            <h3 class=\\"follow-us-title\\">\\n            Nous suivre\\n          </h3></td>\\n        </tr>\\n          <tr>\\n          <td style=\\"text-align: center;\\">\\n          <a href=\\"https://www.facebook.com/ireturnexperience\\">\\n           <img alt=\\"facebook-brand\\" class=\\"follow-us-img\\" src=\\"https://www.irex.aretex.ca/files/bxl-facebook-square.png\\" style=\\"margin: 0 10px;\\">\\n          </a>\\n            </td>\\n            <td style=\\"text-align: center;\\">\\n            <a href=\\"https://www.linkedin.com/company/ireturnexperience\\">\\n           <img alt=\\"linkedin-brand\\" class=\\"follow-us-img\\" src=\\"https://www.irex.aretex.ca/files/bxl-linkedin-square.png\\" style=\\"margin: 0 10px;\\">\\n           </a>\\n            </td>\\n            <td style=\\"text-align: center;\\">\\n            <a href=\\"https://www.facebook.com/groups/ireturnexperiencecommunity\\">\\n           <img alt=\\"facebook-goup-brand\\" class=\\"follow-us-img\\" src=\\"https://www.irex.aretex.ca/files/facebook-group.png\\" style=\\"margin: 0 10px;\\">\\n           </a>\\n            </td>\\n        </tr>\\n          <tr>\\n          <td colspan=\\"3\\" style=\\"text-align: center;\\">\\n            Powered by IREX - Institut du Retour d\'Experience\\n          </td>\\n        </tr>\\n          <tr>\\n          <td colspan=\\"3\\" style=\\"text-align: center;\\">\\n          <a href=\\"/contact\\" style=\\"color: black; margin-top: 5px;\\" target=\\"_blank\\">\\n            <u>Nous contacter</u>\\n          </a>\\n            </td>\\n        </tr>\\n          <tr>\\n          <td colspan=\\"3\\" style=\\"text-align: center;\\">\\n            © 2022 ireturnexperience. Tous droits reserves.\\n            </td>\\n        </tr>\\n          <tr>\\n          <td colspan=\\"3\\" style=\\"text-align: center;\\">\\n            IREX,  Montréal, Québec-Canada.\\n          </td>\\n        </tr>\\n    \\t</tbody>\\n    </table>\\n    <div class=\\"container\\">\\n      <div style=\\"display: flex; flex-direction: column; align-items: center;\\">\\n        <p class=\\"footer-powered-by\\">\\n          \\n        </p>\\n        <div style=\\"display: flex; align-items: center;\\">\\n          \\n          \\n        </div>\\n        <p style=\\"color: black; margin-top: 5px;\\">\\n          \\n        </p>\\n        <p style=\\"color: black; margin-top: 5px;\\">\\n          \\n        </p>\\n      </div>\\n    </div>\\n  </footer>\\n  \\n  </div>","send_unsubscribe_link":1,"send_attachments":0,"published":1,"send_webview_link":0,"route":"newsletters/irex-newsletter-last","test_email_id":"hyacinthe.teuma@gmail.com","scheduled_to_send":2,"doctype":"Newsletter","email_group":[{"name":"6a894036d9","owner":"tnougosso@irex.aretex.ca","creation":"2022-05-17 17:36:59.868416","modified":"2022-05-20 06:44:33.903805","modified_by":"tnougosso@irex.aretex.ca","parent":"irex-newsletter-last","parentfield":"email_group","parenttype":"Newsletter","idx":1,"docstatus":0,"email_group":"irex users","total_subscribers":2,"doctype":"Newsletter Email Group"}],"__onload":{"status_count":{"Sent":"500%"}},"__unsaved":1}': '', 'method': 'test_send', 'cmd': 'run_doc_method'}
+2022-05-25 11:15:56,007 ERROR frappe New Exception collected with id: 2022-05-25 11:15:55.996654-192.168.33.102-730
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-29 13:40:17,151 ERROR frappe New Exception collected with id: 2022-05-29 13:40:17.144945-192.168.33.102-97b
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-30 11:26:40,765 ERROR frappe New Exception collected with id: 2022-05-30 11:26:40.758480-192.168.33.102-bb0
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-30 16:53:52,711 ERROR frappe New Exception collected with id: 2022-05-30 16:53:52.703859-192.168.33.102-e07
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-05-31 18:05:25,512 ERROR frappe New Exception collected with id: 2022-05-31 18:05:25.506494-192.168.33.102-970
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-02 18:13:52,010 ERROR frappe New Exception collected with id: 2022-06-02 18:13:52.001946-192.168.33.102-d34
+Site: www.irex.aretex.ca
+Form Dict: {'doctype': 'Address', 'docname': 'Florian-Billing-1', 'cmd': 'frappe.handler.upload_file'}
+2022-06-03 06:28:50,754 ERROR frappe New Exception collected with id: 2022-06-03 06:28:50.747058-192.168.33.102-ec9
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-04 11:28:08,040 ERROR frappe New Exception collected with id: 2022-06-04 11:28:08.033623-192.168.33.102-e57
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-06 07:56:59,901 ERROR frappe New Exception collected with id: 2022-06-06 07:56:59.894111-192.168.33.102-da0
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-06 13:07:19,386 ERROR frappe New Exception collected with id: 2022-06-06 13:07:19.379788-192.168.33.102-089
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-07 13:32:08,995 ERROR frappe New Exception collected with id: 2022-06-07 13:32:08.988956-192.168.33.102-1d6
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-12 14:05:06,326 ERROR frappe New Exception collected with id: 2022-06-12 14:05:06.319721-192.168.33.102-8fa
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-06-24 06:11:58,188 ERROR frappe New Exception collected with id: 2022-06-24 06:11:57.018363-192.168.33.102-6b5
+Site: www.irex.aretex.ca
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LDAP Account","name":"new-ldap-account-1","__islocal":1,"__unsaved":1,"owner":"tnougosso@irex.aretex.ca","first_name":"compte","last_name":"test","email":"darlinteuma2@gmail.com"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-06-24 06:27:41,279 ERROR frappe New Exception collected with id: 2022-06-24 06:27:40.887507-192.168.33.102-08b
+Site: www.irex.aretex.ca
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LDAP Account","name":"new-ldap-account-2","__islocal":1,"__unsaved":1,"owner":"tnougosso@irex.aretex.ca","email":"darlinteuma2@gmail.com","first_name":"compte","last_name":"test"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-06-24 06:29:10,202 ERROR frappe New Exception collected with id: 2022-06-24 06:29:09.837835-192.168.33.102-33d
+Site: www.irex.aretex.ca
+Form Dict: {'doc': '{"docstatus":0,"doctype":"LDAP Account","name":"new-ldap-account-2","__islocal":1,"__unsaved":1,"owner":"tnougosso@irex.aretex.ca","email":"darlinteuma2@gmail.com","first_name":"compte","last_name":"test"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-06-30 16:20:45,776 ERROR frappe New Exception collected with id: 2022-06-30 16:20:44.648955-192.168.33.102-59e
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-01 07:03:48,208 ERROR frappe New Exception collected with id: 2022-07-01 07:03:47.726818-192.168.33.102-c7f
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-06 20:18:53,988 ERROR frappe New Exception collected with id: 2022-07-06 20:18:52.344252-192.168.33.102-355
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-07 08:11:34,499 ERROR frappe New Exception collected with id: 2022-07-07 08:11:33.813716-192.168.33.102-a5c
+Site: www.irex.aretex.ca
+Form Dict: {'key': 'EQ3JIoZwZcKwGvDnWUj6hHBYT8dRktOT', 'old_password': '', 'new_password': '', 'logout_all_sessions': '1', 'cmd': 'frappe.core.doctype.user.user.update_password'}
+2022-07-07 16:41:08,537 ERROR frappe New Exception collected with id: 2022-07-07 16:41:08.529627-192.168.33.102-dd2
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-08 07:17:03,150 ERROR frappe New Exception collected with id: 2022-07-08 07:17:03.143953-192.168.33.102-34e
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-09 18:57:15,790 ERROR frappe New Exception collected with id: 2022-07-09 18:57:15.781750-192.168.33.102-d57
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-10 12:27:44,993 ERROR frappe New Exception collected with id: 2022-07-10 12:27:44.986761-192.168.33.102-953
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-10 18:38:21,275 ERROR frappe New Exception collected with id: 2022-07-10 18:38:20.566903-192.168.33.102-499
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-11 06:57:20,541 ERROR frappe New Exception collected with id: 2022-07-11 06:57:20.127544-192.168.33.102-0f9
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-11 12:21:21,641 ERROR frappe New Exception collected with id: 2022-07-11 12:21:21.194309-192.168.33.102-0c1
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-11 23:49:13,864 ERROR frappe New Exception collected with id: 2022-07-11 23:49:13.857389-192.168.33.102-1ed
+Site: www.irex.aretex.ca
+Form Dict: {'key': '3MIAo41xu6NwHswf6lSW6qicjiYTvF6G', 'old_password': '', 'new_password': '', 'logout_all_sessions': '1', 'cmd': 'frappe.core.doctype.user.user.update_password'}
+2022-07-12 00:04:28,509 ERROR frappe New Exception collected with id: 2022-07-12 00:04:28.503447-192.168.33.102-20f
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-12 07:37:00,790 ERROR frappe New Exception collected with id: 2022-07-12 07:37:00.783121-192.168.33.102-69c
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-12 16:51:23,836 ERROR frappe New Exception collected with id: 2022-07-12 16:51:23.827710-192.168.33.102-6f8
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-12 19:10:56,097 ERROR frappe New Exception collected with id: 2022-07-12 19:10:56.089481-192.168.33.102-8a2
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-13 10:50:45,815 ERROR frappe New Exception collected with id: 2022-07-13 10:50:45.809279-192.168.33.102-ab1
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-14 06:25:58,014 ERROR frappe New Exception collected with id: 2022-07-14 06:25:58.010069-192.168.33.102-99a
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-15 09:45:23,519 ERROR frappe New Exception collected with id: 2022-07-15 09:45:22.888929-192.168.33.102-254
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-16 08:27:31,934 ERROR frappe New Exception collected with id: 2022-07-16 08:27:31.927356-192.168.33.102-84f
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-17 04:48:38,654 ERROR frappe New Exception collected with id: 2022-07-17 04:48:38.649136-192.168.33.102-f58
+Site: www.irex.aretex.ca
+Form Dict: {}
+2022-07-17 23:08:13,119 ERROR frappe New Exception collected with id: 2022-07-17 23:08:13.110257-192.168.33.102-954
+Site: www.irex.aretex.ca
+Form Dict: {}

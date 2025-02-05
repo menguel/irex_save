@@ -1,0 +1,63 @@
+"Course Name","Department","Description","Hero Image","Default Grading Scale","ID (Topics)","Topic (Topics)","Topic Name (Topics)"
+"Module 3: PKI (Private Key Infrastructure)","Informatique - I","","/files/ssl-2890762_1920.jpg","","","",""
+"Module 2: IAM (  Identity and Access Management )","Informatique - I","","/files/fingerprint-2904774_1920.jpg","","","",""
+"Module 1: Cryptographie","Informatique - I","","/files/stock-trading-6525084_1920.jpg","","","",""
+"Deploy DNS","Informatique - I","","","","","",""
+"Initiation a wordpress","Informatique - I","Ce cour présente les bases sur l'utilisation de wordpress","/files/WordPress-512.png","","2af7131355","implement project","implement project"
+"","","","","","a0b35271e9","Read documentation","Read documentation"
+"Spring boot par la pratique","Informatique - I","Ce cours va vous apprendre spring boot grâce a des projets concrets.","/files/spring2.png","","2fd14ab9e4","Développement","Développement"
+"","","","","","6383b6f71c","Read documentation","Read documentation"
+"Initiation a ERPNext","Informatique - I","Cours pour apprendre ERPNext","","","","",""
+"Initiation a Mysql","Informatique - I","Ce cours vous donne les bases sur mysql","","","813cc8e51e","Développement","Développement"
+"Introduction and Reminder","Informatique - I","","/files/reminder.jpg","","6dd985a735","Introduction to Bigdata key concepts","Introduction to Bigdata key concepts"
+"","","","","","c3c0df5cbc","Functional programming with Java 8+","Functional programming with Java 8+"
+"","","","","","de0841e00e","Setup your IDE for Bigdata apps development (Java 8, IntelliJ, Maven, Hadoop-unit)","Setup your IDE for Bigdata apps development (Java 8, IntelliJ, Maven, Hadoop-unit)"
+"","","","","","a848e5ee0d","Evaluation","Evaluation"
+"Traitement des données à grande échelle","Informatique - I","","","","","",""
+"Stockage des données a grande échelle","Informatique - I","","","","","",""
+"introduction au big data","BIG DATA - I","","","","","",""
+"Module 4 : 3D Animation","","- Introduction","/files/3d.jpg","","","",""
+"Module 3: Video editing",""," - Introduction  <br>
+ - sound processing <br>
+ - Animation <br>","/files/videoediting.jpg","","","",""
+"Module 2: UX/UI Design",""," - Methods, concepts, UX design theories <br>
+ - UX analysis phase <br>
+ - Introduction of ux design with tools <br>","/files/ux.jpg","","","",""
+"Module 1: Graphic Design",""," - Creativity: Tools <br>
+
+ - Initiation to the creation of a visual identity or brand (using free &amp; opensource softwares) <br>
+
+ - Graphic design for everyone at no additional cost<br>
+
+ - newspaper and magazine publishing<br>","/files/graphisme.jpg","","","",""
+"BD5: Large scale data science","Informatique - I","","/files/large-scale-datasciencel-250.png","","","",""
+"BD4: Large scale data streaming","Informatique - I","","/files/large-scale-data-streaming.jpeg","","","",""
+"BD3: Large scale data job scheduling","Informatique - I","","/files/large-scale-data-scheduling.png","","","",""
+"BD2: Large scale data storage","Informatique - I","","/files/large-scale-data-storage.png","","","",""
+"BD1: Large scale data processing","Informatique - I","","/files/large-scale-data-processing.png","","","",""
+"IOT5 : Développement Iot","Informatique - I","","/files/iot-dev.jpeg","","","",""
+"IOT4 : Infrastructure Iot","Informatique - I","","/files/oT-infrastructure-cloud-architecture.png","","","",""
+"IOT3 : Déploiement sur docker","Informatique - I","Pour allez encore un peu plus loin, nous allons voir ensemble une technologie plus légère et plus avancée que les machines virtuelles elle se nomme docker.","/files/illu_docker_blog-52-1-1024x562.png","","","",""
+"IOT2 : Déploiement des services sur des machines virtuelles","Informatique - I","Maintenant que vous avez apris l'environnement de travail qui est linux, nous allons commencer les choses plus importantes encore qui est le déploiement des services sur des machines virtuelles...","/files/virtual-machine-software-windows-10-featured.jpg","","","",""
+"IOT1 : Linux From Scratch","Informatique - I","L'apprentissage de linux est indispensable dans ce parcours. C'est pourquoi dans ce cour nous allons builder le système linux de zéro.","/files/linux-4259595_1280.jpg","","","",""
+"BA4: Analyse d'affaire en logiciels","Informatique - I","","/files/Analyste_Affaires.jpg","","","",""
+"BA3: Ingénierie des processus métier","Informatique - I","","/files/images.jpeg","","","",""
+"BA2: Implantation de logiciel","Informatique - I","Maîtrisez les modules d'un ERP afin de l'appliquer dans des projet concret.","/files/ERP-1.jpg","","","",""
+"BA1: Assurance Qualité en logiciel","Informatique - I","Ce cour vous apprend des notions très importantes concernant les tests logiciel.","/files/QA.jpeg","","","",""
+"DevOps4 : Déploiement sur Kubernetes","Informatique - I","La crème de la crème dans ce cour vous allez certainement arrivé au sommet de votre art avec cette technologie de google que plusieurs géants dans le monde utilisent ...","/private/files/kubertes2","","","",""
+"DevOps3 : Déploiement sur docker","Informatique - I","Pour allez encore un peu plus loin, nous allons voir ensemble une technologie plus légère et plus avancée que les machines virtuelles elle se nomme docker.","/files/illu_docker_blog-52-1-1024x562.png","","","",""
+"DevOps2 : Déploiement des services sur des machines virtuelles","Informatique - I","Maintenant que vous avez apris l'environnement de travail qui est linux, nous allons commencer les choses plus importantes encore qui est le déploiement des services sur des machines virtuelles...","/files/virtual-machine-software-windows-10-featured.jpg","","","",""
+"DevOps1: Linux From Scratch","Informatique - I","L'apprentissage de linux est indispensable dans ce parcours. C'est pourquoi dans ce cour nous allons builder le système linux de zéro.","/files/linux-4259595_1280.jpg","","","",""
+"Initiation à l'informatique professionnelle","Informatique - I","Ce cours s’adresse à tous, quelque soit votre niveau y compris les débutants. Nous vous initierons aux bases du travail dans une équipe-projet et au sein d'un environnement totalement digital. Le télé-travail, les méthodologies de travail en entreprise, et les exigences du monde professionnel n'auront plus de secret pour vous.
+
+","/files/computer-1185569_640.jpg","","c428e88f0e","Prendre en main le bureau distant  (GATE)","Prendre en main le bureau distant  (GATE)"
+"","","","","","68b14ecbcf","Prendre en main le service de visio-conférence JIONE","Prendre en main le service de visio-conférence JIONE"
+"","","","","","e68114c5c6","Prendre en main le service de mail","Prendre en main le service de mail "
+"","","","","","5765b7c1c5","Prendre en main la messagerie instantanée","Prendre en main la messagerie instantanée "
+"","","","","","a7739c9d3c","Prendre en main le service de gestion de projets","Prendre en main le service de gestion de projets"
+"","","","","","06c2eccd2e","Prendre en main le service de gestion de documents","Prendre en main le service de gestion de documents"
+"DW4: Développement backend 2","Informatique - I","","/files/backend.jpeg","","","",""
+"DW3: Développement backend 1","Informatique - I","","/files/backend.jpeg","","","",""
+"DW2: Intégration avec des API","Informatique - I","Ici vous allez apprendre a récupérer les données d'une source externe vers votre Front End et bien d'autres encore.
+","/files/web_api_development_services_p3.png","","","",""
+"DW1: Développement front end","Informatique - I","Vous allez pouvoir créer des Front End attrayant avec les technologies HTML, CSS, Javascript et Bootstrap etc ... afin d’asseoir les base qui seront utiles par la suite.","/files/Front-End-Web-Development.jpg","","","",""

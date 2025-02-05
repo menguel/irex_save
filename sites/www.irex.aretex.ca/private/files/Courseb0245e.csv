@@ -1,0 +1,97 @@
+"Course Name","Department","Description","Hero Image","Default Grading Scale","description image","description text","tools"
+"test","Informatique - IX","","","","","",""
+"Prendre en main la méssagérie instantanée","Informatique - IX","La méssagerie instantanée est un service permettant d'echanger sur les différents projets dans lequels vous êtes présent.","/files/chat.jpg","","","",""
+"Prendre en main le DRIVE IREX","Informatique - IX","Le DRIVE IREX est un outils qui vous permet de sauvégarder les documents et de les partagés avec les proches.","/files/documents.jpg","","","",""
+"Prendre en main le service de plannification","Informatique - IX","Le service de planification va vous aider à faire des sondages variés sur les dates et heures de rendez-vous et bien d'autres encore.","/files/Capture d’écran de 2022-02-24 11-36-01.png","","","",""
+"Prendre en main le service de mail","Informatique - IX","Le MAIL est un service permettant l'envoi de courrier électronique au sein du réseau IREX et meme à l'extérrieur.","/files/mail.jpg","","","",""
+"Prendre en main le service de gestion de projet","Informatique - IX","Ce module va permettre d'apprendre les bases sur le travail en équipe et aussi les méthodologies de travail tel que SCRUM et KANBAN.","/files/tuleap.jpg","","","",""
+"Prendre en main le service de visio-conférence","Informatique - IX","JIONE est une solution permettant à des personnes de communiquer indépendamment de leur position géographique juste avec une connexion internet.","/files/jione.jpg","","","",""
+"Prendre en main le bureau distant GATE","Informatique - IX","Le bureau distant (GATE) est une solution permettant d'accéder à l'interface graphique ou au terminal d'un ordinateur physiquement éloigné via un autre ordinateur local.","/files/gate.jpg","","","",""
+"Développement front end","Informatique - IX","Vous allez pouvoir créer des Front End attrayant avec les technologies du moment <br><br>
+
+- LANGAGES : HTML5, CSS3, Javascript, Bootstrap  etc ... <br>
+
+Afin d’assoir les bases qui seront utiles par la suite.","/files/dev_front end.png","","","",""
+"Intégration avec des API","Informatique - IX","Ici nous allons apprendre à récupérer les données d'une source externe vers notre Front End ou alors faire le chemin inverse qui consiste à envoyer les données vers un backend. <br><br>
+
+Nous allons apprendre à utiliser les technologies suivantes: <br>
+<li>Postman</li> 
+<li>Swagger </li>
+<li>Les Web Service </li>","/files/dev_front_apic1a5af.png","","","",""
+"Développement backend","Informatique - IX","Cette partie est une introduction au développement backend. Les concepts abordés dans cette partie sont les suivants :
+<li>La programmation fonctionnelle</li>
+<li>Les Test unitaires</li>
+<li>Les IDE</li>","/files/dev_backend6ffb4b.png","","","",""
+"Développement backend avancé","Informatique - IX","Nous allons apprendre à dévelloper et à déployer des microservices en utilisant les technologies suivantes : <br>
+
+<li> Java: SpringBoot </li>
+<li> Python </li>
+<li> Bases de données relationnelles </li>
+<li> Bases de données No SQL </li>
+<li> Bus d'intégration par message </li>","/files/dev_backend_avance_2.png","","","",""
+"Initiation à l'informatique professionnelle","Informatique - IX","Ce cours s’adresse à tous, quel que soit votre niveau y compris les débutants. Nous vous initierons aux bases du travail dans une équipe-projet au sein d'un environnement totalement digital. Le télétravail, les méthodologies de travail en entreprise, ainsi que les exigences du monde professionnel n'auront plus de secret pour vous.","/files/onboarding.jpg","","","",""
+"DevOps1: Linux From Scratch","Informatique - IX","L'apprentissage de Linux est indispensable dans ce parcours. C'est pourquoi dans ce cours nous allons construire le système Linux de zéro.","/files/linux-4259595_1280.jpg","","","",""
+"DevOps2 : Déploiement des services sur des machines virtuelles","Informatique - IX","Maintenant que vous avez appris l'environnement de travail qui est Linux, nous allons commencer un module plus important encore qui est le déploiement des services sur des machines virtuelles.","/files/virtual-machine-software-windows-10-featured.jpg","","","",""
+"DevOps3 : Déploiement sur docker","Informatique - IX","Pour aller encore un peu plus loin, nous allons voir ensemble une technique plus légère et plus avancée que les machines virtuelles appelée docker.","/files/illu_docker_blog-52-1-1024x562.png","","","",""
+"DevOps4 : Déploiement sur Kubernetes","Informatique - IX","La crème de la crème dans ce cours, vous allez certainement arriver au sommet de votre art avec cette technologie de Google que plusieurs géants dans le monde utilisent.","/files/kubernetes.png","","","",""
+"Assurance Qualité en logiciel","Informatique - IX","Les entreprises cherchent de nos jours à livrer des incréments de leur solution plus fréquemment.
+
+Ceci entraîne un besoin de tester ces applications à chaque mise à jour pour éviter des régressions très préjudiciables pour la compagnie.
+
+Pour faire face à ce risque, les spécialistes en qualité logicielle sont incontournables grâce à leur capacité à comprendre des stratégies de tests, implémenter des plans de tests...faire appel à de l'automatisation dans un processus ci/cd.","/files/QA.jpeg","","/files/QA.jpeg","<p class=""marLeftN30"">Ce module couvre les compétences suivantes: </p>
+
+<li>Rédaction de cas de tests manuels</li><br>
+<li>Suivi des tests dans un outil dédié</li><br>
+<li>Exécution d'une campagne de tests</li><br>
+<li>Écriture de tests automatisés</li>","Squash, Selenium, Tuleap, Cucumber, Gherkin"
+"Implantation de logiciel","Informatique - IX","Dans ce module les professionnels d'autres métiers que l'informatique apprennent à mettre leur compétence métier au service d'une équipe TI en charge de l'implantation d'un logiciel spécialisé.","/files/ERP-1.jpg","","/files/ERP-1.jpg","<li>Recueil de besoins utilisateur</li><br>
+<li>Planification d'un projet d'implantation</li><br>
+<li>Exécution d'un projet</li><br>
+<li>Formation des utilisateurs</li><br>
+<li>Support</li>","Tuleap, Scrum, Kanban"
+"Ingénierie des processus métier","Informatique - IX","Une organisation peut être vue comme un ensemble de processus qui prennent en entrée des intrants et produits des résultats.","/files/gros-centre-donnees-rack-salle-serveurs-processus-ingenierie-travail-equipe-technologie-informatique-stockage-nuage_39422-1032.jpg","","/files/jason-goodman-X8H8vPcelPk-unsplash.jpg","<li>
+Ici il s'agit d'utiliser des logiciels pour implémenter la gestion de dossiers dans une organisation. On apprend ainsi à modéliser le processus métier en question, à l'analyser puis à proposer un nouveau avec des améliorations. 
+</li><br>
+
+<li>Ensuite, il s'agit de passer à l'implémentation sous forme de logiciel du processus modélisé précédemment. </li><br>
+<li>
+Enfin il s'agit d'analyser les données d'exécution des processus déployés pour mieux comprendre leurs dysfonctionnements.
+</li>","BPMN, Scrum, Bonita/Camunda"
+"Analyse d'affaire en logiciels","Informatique - IX","Dans cette partie il s'agit d'apprendre le métier d'Analyse d'affaire dans une équipe de développements logiciels. Vous allez comprendre le rôle d'un BA dans une telle équipe en travaillant sur des projets concrets de la vie réelle.","/files/Analyste_Affaires.jpg","","","",""
+"IOT1 : Linux From Scratch","Informatique - IX","L'apprentissage de linux est indispensable dans ce parcours. C'est pourquoi dans ce cours nous allons builder le système linux de zéro.","/files/linux-4259595_1280.jpg","","","",""
+"IOT2 : Déploiement des services sur des machines virtuelles","Informatique - IX","Maintenant que vous avez apris l'environnement de travail qui est linux, nous allons commencer les choses plus importantes encore qui est le déploiement des services sur des machines virtuelles...","/files/virtual-machine-software-windows-10-featured.jpg","","","",""
+"IOT3 : Déploiement sur docker","Informatique - IX","Pour aller encore un peu plus loin, nous allons voir ensemble une technologie plus légère et plus avancée que les machines virtuelles elle se nomme docker.","/files/illu_docker_blog-52-1-1024x562.png","","","",""
+"IOT4 : Infrastructure Iot","Informatique - IX","Dans ce cours nous allons nous familiariser avec les concepts et infrastructures qui tournent autour des objets connectés. Nous allons voir ensemble les différents objets connectés ensuite nous allons comprendre comment se fait l'interconnexion entre les différents objets.","/files/oT-infrastructure-cloud-architecture.png","","","",""
+"IOT5 : Développement Iot","Informatique - IX","Nous allons étudier dans ce cours les contraintes du hardware (Matériel) et les possibilités offertes par le cloud, afin de proposer et de concevoir des applications et des logiciels pour objets connectés.","/files/iot-dev.jpeg","","","",""
+"BD1: Large scale data processing","Informatique - IX","","/files/large-scale-data-processing.png","","","",""
+"BD2: Large scale data storage","Informatique - IX","","/files/large-scale-data-storage.png","","","",""
+"BD3: Large scale data job scheduling","Informatique - IX","","/files/large-scale-data-scheduling.png","","","",""
+"BD4: Large scale data streaming","Informatique - IX","","/files/large-scale-data-streaming.jpeg","","","",""
+"BD5: Large scale data science","Informatique - IX","","/files/large-scale-datasciencel-250.png","","","",""
+"Module 1: Graphic Design","","- Les outils de créativité <br>
+
+ - Initiation à la création d'une identité visuelle ou d'une marque (à l'aide de logiciels libres et à code ouvert) <br>
+
+ - Conception graphique pour tous sans frais supplémentaires<br>
+
+ - Édition de journaux et de magazines<br>","/files/graphisme.jpg","","","",""
+"Module 2: UX/UI Design","","- Méthodes, concepts, théories de conception UX <br>
+ - Les phases d'une analyse UX <br>
+ - Cas pratique : conception UX avec des outils<br>","/files/ux.jpg","","","",""
+"Module 3: Video editing","","- Introduction  <br>
+ - Traitement du son <br>
+ - Animations vidéo <br>","/files/videoediting.jpg","","","",""
+"Module 4 : 3D Animation","","- Introduction <br>
+- Animation 3d avec des outils.","/files/3d.jpg","","","",""
+"introduction au big data","BIG DATA - IX","","","","","",""
+"Stockage des données a grande échelle","Informatique - IX","","","","","",""
+"Traitement des données à grande échelle","Informatique - IX","","","","","",""
+"Introduction and Reminder","Informatique - IX","","/files/reminder.jpg","","","",""
+"Initiation a Mysql","Informatique - IX","Ce cours vous donne les bases sur mysql","","","","",""
+"Initiation a ERPNext","Informatique - IX","Cours pour apprendre ERPNext","","","","",""
+"Spring boot par la pratique","Informatique - IX","Ce cours va vous apprendre spring boot grâce a des projets concrets.","/files/spring2.png","","","",""
+"Initiation a wordpress","Informatique - IX","Ce cour présente les bases sur l'utilisation de wordpress","/files/WordPress-512.png","","","",""
+"Deploy DNS","Informatique - IX","","","","","",""
+"Module 1: Cryptographie","Informatique - IX","","/files/crypto.jpg","","","",""
+"Module 2: IAM (  Identity and Access Management )","Informatique - IX","","/files/fingerprint-2904774_1920.jpg","","","",""
+"Module 3: PKI (Private Key Infrastructure)","Informatique - IX","","/files/ssl-2890762_1920.jpg","","","",""

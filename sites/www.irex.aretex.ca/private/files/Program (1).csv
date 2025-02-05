@@ -1,0 +1,45 @@
+"Program Name","Department","Program Abbreviation","Is Published","Allow Self Enroll","Is Featured","Intro Video","Hero Image","Description","ID (Courses)","Course (Courses)","Course Name (Courses)","Mandatory (Courses)"
+"Communication","Informatique - IX","21-Communication",1,1,0,"","/files/email-4284157_1280.png","<b>Coming soon</b>","","","",""
+"Marketing digital","Informatique - IX","20-marketing",1,1,0,"","/files/digital-marketing-5816304_1920.jpg","Dans ce module nous allons vous accompagner par la pratique, vous aider à acquérir les compétences nécessaires pour devenir rapidement un spécialiste du marketing digital et ainsi dynamiser votre carrière.","13910fe9a5","Community management","Community management",1
+"Développement Web et Mobile","Informatique - IX","03-dev-web",1,1,0,"","/files/web.jpg","Découvrez les technologies a la pointe dans le domaine du Web et faites carrière dans ce domaine en forte demande.","9a9fed3a0c","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",0
+"","","","","","","","","","499d9f8b07","Développement front end","Développement front end",0
+"","","","","","","","","","11c7d0b26f","Intégration avec des API","Intégration avec des API",0
+"","","","","","","","","","4fb693ad30","Développement backend","Développement backend",0
+"","","","","","","","","","68bbce34e1","Développement backend avancé","Développement backend avancé",0
+"DevOps","Informatique - IX","04-DEVOPS",1,1,0,"","/files/devops-3155972_1920.jpg","À la découverte du monde du DevOps pour une carrière réussie.","8b7e80e38c","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
+"","","","","","","","","","85b6b1cabf","DevOps1: Linux From Scratch","DevOps1: Linux From Scratch",1
+"","","","","","","","","","afb970c3b6","DevOps2 : Déploiement des services sur des machines virtuelles","DevOps2 : Déploiement des services sur des machines virtuelles",1
+"","","","","","","","","","bf7cc84465","DevOps3 : Déploiement sur docker","DevOps3 : Déploiement sur docker",1
+"","","","","","","","","","853f25a3f2","DevOps4 : Déploiement sur Kubernetes","DevOps4 : Déploiement sur Kubernetes",1
+"Analyse d'affaire","Informatique - IX","02-AAF",1,1,0,"","/files/business-analysis-process.png","Dans ce programme qui s'adresse tout particulièrement aux diplômés des filières autres que les technologies de l'information, nous apprenons les métiers liés à l'analyse d'affaire. Des métiers qui s'exercent au sein même d'équipe projets informatiques.","9c91ae66da","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
+"","","","","","","","","","72e04f0b8b","Assurance Qualité en logiciel","Assurance Qualité en logiciel",1
+"","","","","","","","","","a2666e938b","Implantation de logiciel","Implantation de logiciel",1
+"","","","","","","","","","14c1080fa5","Ingénierie des processus métier","Ingénierie des processus métier",1
+"","","","","","","","","","72bd09c9ad","Analyse d'affaire en logiciels","Analyse d'affaire en logiciels",1
+"IOT : Internet des Objets","Informatique - IX","05-IOT",1,1,0,"","/files/internet-of-things-IoT.jpeg","L'Internet des objets désigne l'ensemble des infrastructures et technologies mises en place pour faire fonctionner des objets divers par le biais d'une connexion Internet. On parle alors d'objets connectés. <br><br>
+
+Dans ce cours nous allons parcourir ces infrastructures et technologies et surtout nous allons développer des logiciels pour les faire fonctionner. ","704497b40b","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
+"","","","","","","","","","7e44b464a9","IOT1 : Linux From Scratch","IOT1 : Linux From Scratch",1
+"","","","","","","","","","ad091ab4e7","IOT2 : Déploiement des services sur des machines virtuelles","IOT2 : Déploiement des services sur des machines virtuelles",1
+"","","","","","","","","","d94148d339","IOT3 : Déploiement sur docker","IOT3 : Déploiement sur docker",1
+"","","","","","","","","","b97b7591fe","IOT4 : Infrastructure Iot","IOT4 : Infrastructure Iot",1
+"","","","","","","","","","0b82a00304","IOT5 : Développement Iot","IOT5 : Développement Iot",1
+"Big Data","Informatique - IX","06-BD",1,1,0,"","/files/webpc-passthru.png","Ce cours s'adresse aux personnes ayant une première expérience en programmation et souhaitant s'orienter vers les métiers autour de la valorisation des données de masse.","254222ea9f","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
+"","","","","","","","","","1cbefbcd67","BD1: Large scale data processing","BD1: Large scale data processing",1
+"","","","","","","","","","3837386e24","BD2: Large scale data storage","BD2: Large scale data storage",1
+"","","","","","","","","","fb87e515d3","BD3: Large scale data job scheduling","BD3: Large scale data job scheduling",1
+"","","","","","","","","","dc52419846","BD4: Large scale data streaming","BD4: Large scale data streaming",1
+"","","","","","","","","","292ecdb484","BD5: Large scale data science","BD5: Large scale data science",1
+"UX Design","Informatique - IX","05-UX",1,1,0,"","/files/uxdesiiiii.jpg","Suivez les cas concrets d'un processus de UX design en pratiquant sur les projets de la vie réelle.","b5b6252ee2","Module 1: Graphic Design","Module 1: Graphic Design",1
+"","","","","","","","","","c6e743f3fe","Module 2: UX/UI Design","Module 2: UX/UI Design",1
+"","","","","","","","","","d2418ae3e4","Module 3: Video editing","Module 3: Video editing",1
+"","","","","","","","","","7bc118d26e","Module 4 : 3D Animation","Module 4 : 3D Animation",1
+"Cybersécurité","Informatique - IX","07-Sécurité",1,1,0,"","/files/cyber-security-1805632_1280.png","","041f4afe8e","Module 1: Cryptographie","Module 1: Cryptographie",1
+"","","","","","","","","","3c57d64174","Module 2: IAM (  Identity and Access Management )","Module 2: IAM (  Identity and Access Management )",1
+"","","","","","","","","","23d79f34fd","Module 3: PKI (Private Key Infrastructure)","Module 3: PKI (Private Key Infrastructure)",1
+"CAO / FAO","Informatique - IX","08-cao-fao",1,1,1,"","/files/computer-1373684_1920.jpg","Conception Assistée par Ordinateur / Fabrication Assistée par Ordinateur
+<br><br>
+<b>Coming soon</b>","","","",""
+"Ventes de produits et services numériques","Informatique - IX","19-ventes",1,1,0,"","/files/ecommerce-2140603_1920.jpg","Apprenez les stratégies numériques pour aider les marques  à attirer le consommateur d’aujourd’hui.","99e38f7479","Représentation IREX","Représentation IREX",1
+"","","","","","","","","","00fddc2e5b","Représentation OneSI","Représentation en Services informatique",1
+"Initiation à l'informatique et au travail à distance","Informatique - IX","01-IT",1,1,0,"","/files/onboarding.jpg","Ce programme s’adresse à tous, quel que soit votre niveau y compris les débutants. Nous vous initierons aux bases du travail dans une équipe-projet et au sein d'un environnement totalement digital. Le télétravail, les méthodologies de travail en entreprise ainsi que les exigences du monde professionnel n'auront plus de secret pour vous.","9e7df35d85","Initiation à l'informatique professionnelle","Initiation à l'informatique professionnelle",1
